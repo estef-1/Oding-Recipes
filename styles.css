@@ -1,0 +1,53 @@
+ul li {
+  color: rgb(5, 11, 131);
+
+}
+
+img{
+  height: 400px;
+  width: auto;
+}
+.main{
+  background-image: linear-gradient(rgb(180, 227, 180), rgb(204, 213, 204), rgb(175, 232, 196));
+  
+}
+
+title{
+  text-align: center;
+  font-size: 36px;
+
+}
+.main .title{
+  text-align: center;
+  font-size: 48px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+
+.main ul li {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 36px;
+  list-style: none;
+  padding-top: 30px;
+}
+.paloma{
+ background-color: rgb(144, 122, 61);
+
+}
+
+.noodles{
+  background-color: rgb(187, 227, 155);
+}
+
+.bagels{
+  background-color: rgb(152, 157, 213);
+
+}
+
+p {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 24px;
+}
